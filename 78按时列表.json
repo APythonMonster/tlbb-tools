@@ -1,0 +1,90 @@
+{
+    "fu_script": true,
+    "fu_script_name": {
+        "data": 0,
+        "sel": 4,
+        "text": "副_清包"
+    },
+    "loop": false,
+    "monitor": true,
+    "queue": [
+        "自动刷马贼"
+    ],
+    "time": [
+        {
+            "day_week": 254,
+            "first_time": 0,
+            "over_sec": 1644772941,
+            "run_sec": 1644768002,
+            "script_name": "杀星",
+            "second_time": 720926,
+            "stop_time": 720926
+        },
+        {
+            "day_week": 254,
+            "first_time": 1,
+            "over_sec": 1644779396,
+            "run_sec": 1644772955,
+            "script_name": "一键老三",
+            "second_time": 720926,
+            "stop_time": 720926
+        },
+        {
+            "day_week": 254,
+            "first_time": 1,
+            "over_sec": 1644803566,
+            "run_sec": 1644779406,
+            "script_name": "一键新三",
+            "second_time": 720926,
+            "stop_time": 720926
+        },
+        {
+            "day_week": 254,
+            "first_time": 720926,
+            "over_sec": 1644817214,
+            "run_sec": 1644815568,
+            "script_name": "刷棋",
+            "second_time": 917534,
+            "stop_time": 917534
+        },
+        {
+            "day_week": 254,
+            "first_time": 720926,
+            "over_sec": 1644818836,
+            "run_sec": 1644817218,
+            "script_name": "刷箱子",
+            "second_time": 917534,
+            "stop_time": 917534
+        },
+        {
+            "day_week": 254,
+            "first_time": 917534,
+            "over_sec": 0,
+            "run_sec": 1644820210,
+            "script_name": "师门任务",
+            "second_time": 1245214,
+            "stop_time": 1245214
+        },
+        {
+            "day_week": 254,
+            "first_time": 1245214,
+            "over_sec": 1644753990,
+            "run_sec": 1644753387,
+            "script_name": "一键日常",
+            "second_time": 1310750,
+            "stop_time": 1310750
+        },
+        {
+            "day_week": 254,
+            "first_time": 1310750,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "刷怪",
+            "second_time": 1310753,
+            "stop_time": 1310753
+        }
+    ],
+    "timelist_uncheck_allscript": "一个都不能跑 剿匪 除害 黄金之链 玄佛珠 熔岩之地 杀星 讨伐燕子坞 缥缈峰(小) 缥缈峰(大) 一键新三 一键老三 刷箱子 刷棋 水月山庄 单次缥缈峰(大) 藏经阁 偷袭门派 跑商",
+    "timelist_uncheck_queue": true,
+    "timelist_uncheck_script": true
+}

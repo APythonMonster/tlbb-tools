@@ -1,0 +1,369 @@
+{
+    "fu_script": true,
+    "fu_script_name": {
+        "data": 0,
+        "sel": 4,
+        "text": "副_清包"
+    },
+    "loop": true,
+    "monitor": true,
+    "queue": [
+        "采集"
+    ],
+    "time": [
+        {
+            "day_week": 254,
+            "first_time": 0,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "缥缈峰(小)",
+            "second_time": 45,
+            "stop_time": 45
+        },
+        {
+            "day_week": 254,
+            "first_time": 45,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "水月山庄",
+            "second_time": 65561,
+            "stop_time": 65561
+        },
+        {
+            "day_week": 254,
+            "first_time": 65561,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "单次缥缈峰(大)",
+            "second_time": 65586,
+            "stop_time": 65586
+        },
+        {
+            "day_week": 254,
+            "first_time": 65586,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "单次缥缈峰(大)",
+            "second_time": 131097,
+            "stop_time": 131097
+        },
+        {
+            "day_week": 254,
+            "first_time": 131097,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "刷怪",
+            "second_time": 131103,
+            "stop_time": 131103
+        },
+        {
+            "day_week": 254,
+            "first_time": 131127,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "刷反贼",
+            "second_time": 196628,
+            "stop_time": 196628
+        },
+        {
+            "day_week": 254,
+            "first_time": 196628,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "杀星",
+            "second_time": 262154,
+            "stop_time": 262154
+        },
+        {
+            "day_week": 254,
+            "first_time": 262154,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "偷袭门派",
+            "second_time": 262184,
+            "stop_time": 262184
+        },
+        {
+            "day_week": 254,
+            "first_time": 262184,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "讨伐燕子坞",
+            "second_time": 327685,
+            "stop_time": 327685
+        },
+        {
+            "day_week": 254,
+            "first_time": 327685,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "讨伐燕子坞",
+            "second_time": 327710,
+            "stop_time": 327710
+        },
+        {
+            "day_week": 254,
+            "first_time": 327710,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "跑商",
+            "second_time": 589834,
+            "stop_time": 589834
+        },
+        {
+            "day_week": 254,
+            "first_time": 589834,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "一键新三",
+            "second_time": 655370,
+            "stop_time": 655370
+        },
+        {
+            "day_week": 254,
+            "first_time": 655370,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "偷袭门派",
+            "second_time": 655400,
+            "stop_time": 655400
+        },
+        {
+            "day_week": 254,
+            "first_time": 655400,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "藏经阁",
+            "second_time": 720911,
+            "stop_time": 720911
+        },
+        {
+            "day_week": 254,
+            "first_time": 720921,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "刷怪",
+            "second_time": 720927,
+            "stop_time": 720927
+        },
+        {
+            "day_week": 254,
+            "first_time": 720927,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "刷箱子",
+            "second_time": 720947,
+            "stop_time": 720947
+        },
+        {
+            "day_week": 254,
+            "first_time": 720947,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "刷棋",
+            "second_time": 786453,
+            "stop_time": 786453
+        },
+        {
+            "day_week": 254,
+            "first_time": 786453,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "偷袭门派",
+            "second_time": 786472,
+            "stop_time": 786472
+        },
+        {
+            "day_week": 254,
+            "first_time": 786487,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "刷反贼",
+            "second_time": 851988,
+            "stop_time": 851988
+        },
+        {
+            "day_week": 254,
+            "first_time": 851993,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "天降奇兽",
+            "second_time": 852023,
+            "stop_time": 852023
+        },
+        {
+            "day_week": 254,
+            "first_time": 852023,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "野猪暴走",
+            "second_time": 917559,
+            "stop_time": 917559
+        },
+        {
+            "day_week": 254,
+            "first_time": 917559,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "刷反贼",
+            "second_time": 983060,
+            "stop_time": 983060
+        },
+        {
+            "day_week": 254,
+            "first_time": 983060,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "追捕野猪王",
+            "second_time": 1048586,
+            "stop_time": 1048586
+        },
+        {
+            "day_week": 254,
+            "first_time": 1048586,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "偷袭门派",
+            "second_time": 1048601,
+            "stop_time": 1048601
+        },
+        {
+            "day_week": 254,
+            "first_time": 1048601,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "藏经阁",
+            "second_time": 1048631,
+            "stop_time": 1048631
+        },
+        {
+            "day_week": 254,
+            "first_time": 1048631,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "刷反贼",
+            "second_time": 1114132,
+            "stop_time": 1114132
+        },
+        {
+            "day_week": 254,
+            "first_time": 1114167,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "刷怪",
+            "second_time": 1179649,
+            "stop_time": 1179649
+        },
+        {
+            "day_week": 254,
+            "first_time": 1179649,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "一键日常",
+            "second_time": 1179673,
+            "stop_time": 1179673
+        },
+        {
+            "day_week": 254,
+            "first_time": 1179673,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "天降奇兽",
+            "second_time": 1179703,
+            "stop_time": 1179703
+        },
+        {
+            "day_week": 254,
+            "first_time": 1179703,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "刷反贼",
+            "second_time": 1245204,
+            "stop_time": 1245204
+        },
+        {
+            "day_week": 254,
+            "first_time": 1245204,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "一键日常",
+            "second_time": 1310730,
+            "stop_time": 1310730
+        },
+        {
+            "day_week": 254,
+            "first_time": 1310730,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "偷袭门派",
+            "second_time": 1310760,
+            "stop_time": 1310760
+        },
+        {
+            "day_week": 254,
+            "first_time": 1310775,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "刷反贼",
+            "second_time": 1376276,
+            "stop_time": 1376276
+        },
+        {
+            "day_week": 254,
+            "first_time": 1376276,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "野猪暴走",
+            "second_time": 1376296,
+            "stop_time": 1376296
+        },
+        {
+            "day_week": 254,
+            "first_time": 1376296,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "天降奇兽",
+            "second_time": 1441802,
+            "stop_time": 1441802
+        },
+        {
+            "day_week": 254,
+            "first_time": 1441802,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "偷袭门派",
+            "second_time": 1441832,
+            "stop_time": 1441832
+        },
+        {
+            "day_week": 254,
+            "first_time": 1441847,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "藏经阁",
+            "second_time": 1507353,
+            "stop_time": 1507353
+        },
+        {
+            "day_week": 254,
+            "first_time": 1507353,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "刷怪",
+            "second_time": 1507359,
+            "stop_time": 1507359
+        },
+        {
+            "day_week": 254,
+            "first_time": 1507359,
+            "over_sec": 0,
+            "run_sec": 0,
+            "script_name": "一键日常",
+            "second_time": 1507387,
+            "stop_time": 1507387
+        }
+    ],
+    "timelist_uncheck_allscript": "一个都不能跑 剿匪 除害 黄金之链 玄佛珠 熔岩之地 杀星 讨伐燕子坞 缥缈峰(小) 缥缈峰(大) 水月山庄 单次缥缈峰(小) 单次缥缈峰(大) 单次杀星 刷棋 刷箱子 刷反贼 偷袭门派 天降奇兽 藏经阁 一键日常 跑商 一键新三 一键老三",
+    "timelist_uncheck_queue": true,
+    "timelist_uncheck_script": true
+}

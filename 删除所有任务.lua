@@ -1,0 +1,7 @@
+	GoToSceneNPC("余助之", 79, 134, 002)
+	Sleep(1000)
+Dismount(500)
+DialogOptionClicked("我想删除所有的任务", 1, 200)
+Sleep(1000)
+DialogOptionClicked("确认", 1, 200)
+Sleep(1000)
